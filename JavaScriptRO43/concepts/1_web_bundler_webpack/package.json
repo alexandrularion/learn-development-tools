@@ -2,11 +2,11 @@
   "name": "1_web_bundler_webpack",
   "version": "1.0.0",
   "description": "Learn how to integrate webpack within project.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode=development",
-    "dev": ""
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development",
+    "dev": "webpack serve --open --live-reload --mode=development"
   },
   "author": "Alexandru Larion",
   "license": "ISC",
