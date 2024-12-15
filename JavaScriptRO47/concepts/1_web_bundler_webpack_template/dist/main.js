@@ -1,0 +1,1 @@
+(self.webpackChunk_1_web_bundler_webpack_template=self.webpackChunk_1_web_bundler_webpack_template||[]).push([[792],{497:()=>{document.querySelector("h1").innerText="Hello world 2.0!"}},e=>{e(e.s=497)}]);
