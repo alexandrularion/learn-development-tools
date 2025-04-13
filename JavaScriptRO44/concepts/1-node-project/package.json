@@ -1,0 +1,14 @@
+{
+  "name": "1-node-project",
+  "version": "1.0.0",
+  "description": "Example of node project using NPM (Node packages manager)",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Larion",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.5"
+  }
+}
